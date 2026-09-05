@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/claims",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 2725,
+      "bodyTextHash": "cfcdd78c8c15c26674a290f012c74c4a62aed380b7f2b948c799eedf68af7729",
+      "bodyTextPrefix": "STANDING CLAIMS The loop Hub equity funds silicon. Silicon sells",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-claims.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 2725,
+      "bodyTextHash": "cfcdd78c8c15c26674a290f012c74c4a62aed380b7f2b948c799eedf68af7729",
+      "bodyTextPrefix": "STANDING CLAIMS The loop Hub equity funds silicon. Silicon sells",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-claims-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/built-claims.json"
+}

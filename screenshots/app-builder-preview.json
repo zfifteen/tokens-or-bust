@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 615,
+      "bodyTextHash": "1656c7e4ee7db34a1ebdc320fd5e647dab77a21d06016ddb49c5bee83b83e34a",
+      "bodyTextPrefix": "RESEARCH / UNWIND Conversion Rate Twenty-one figures on whether ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 615,
+      "bodyTextHash": "1656c7e4ee7db34a1ebdc320fd5e647dab77a21d06016ddb49c5bee83b83e34a",
+      "bodyTextPrefix": "RESEARCH / UNWIND Conversion Rate Twenty-one figures on whether ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

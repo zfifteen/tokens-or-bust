@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/figures",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 4103,
+      "bodyTextHash": "5d22f3c300587ec0405ac7562f5d17a6600abb1d6fb54cc0b0a3f28ea249b81f",
+      "bodyTextPrefix": "TWENTY-ONE FIGURES The suite Tap a figure to open the live chart",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/figures.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 4103,
+      "bodyTextHash": "5d22f3c300587ec0405ac7562f5d17a6600abb1d6fb54cc0b0a3f28ea249b81f",
+      "bodyTextPrefix": "TWENTY-ONE FIGURES The suite Tap a figure to open the live chart",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/figures-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/figures.json"
+}

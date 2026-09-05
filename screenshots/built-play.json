@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/play",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 491,
+      "bodyTextHash": "1d6533528b24ad712ee40369c2c036740176bea91a29da16184dbac2eb3fc629",
+      "bodyTextPrefix": "IDENTITY SKETCH Play the knobs The first seven figures are a tea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-play.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 746,
+      "bodyTextHash": "aae339c68febcfbffab57d2e3f981777affde5d3f44bb483a945c1832de21675",
+      "bodyTextPrefix": "IDENTITY SKETCH Play the knobs The first seven figures are a tea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-play-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/built-play.json"
+}

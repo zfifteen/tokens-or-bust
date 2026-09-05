@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/figures/08",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 938,
+      "bodyTextHash": "511b48023083dff74336b35a7c63f5a89e5b3ae7e5a5f74df851b01fb9b11174",
+      "bodyTextPrefix": "Suite 08 / 21 MEASURED H5 Official cards, blended the same way E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-fig08.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Conversion Rate",
+      "hasCanvas": false,
+      "bodyTextLen": 797,
+      "bodyTextHash": "0c08db44c5fae9a8202fc93ca0eb0a47c0e3273cfa24b19fa43bf1f95bd97ae9",
+      "bodyTextPrefix": "Suite 08 / 21 MEASURED H5 Official cards, blended the same way E",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/built-fig08-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/built-fig08.json"
+}
