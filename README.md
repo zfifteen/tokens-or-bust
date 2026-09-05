@@ -197,7 +197,7 @@ Play knobs that serialize to the URL:
 
 Example: `/play?F=900&p0=4&cvC=1.3&pMulC=0.85&vMulC=1.18&floorC=0.35`
 
-Play charts (hypothesis): `01` peak revenue, `05` P&amp;L, `06` GPU-hour, `07` mix, `02` regime, `04` break-even.
+Play charts (hypothesis): `01` peak revenue, `05` P&L, `06` GPU-hour, `07` mix, `02` regime, `04` break-even.
 
 ## Measured series
 
@@ -207,7 +207,7 @@ Static snapshots in `src/lib/measured.ts`. Not a live feed.
 | --- | --- |
 | Official API cards (fig 08–10) | First-party pricing pages read 2026-09-05. Blend is 3 input : 1 output, a convention, not a filing. |
 | July cheap-tier cut | OpenAI first-party, 2026-07-30. Luna −80% (1.00/6.00 → 0.20/1.20). Terra −20% (implied prior 2.50/15.00). |
-| GPU rental (fig 11) | CCIR guaranteed on-demand, 2026-09-04 07:30 ET, US &amp; EU. Interruptible rates are not drawn. |
+| GPU rental (fig 11) | CCIR guaranteed on-demand, 2026-09-04 07:30 ET, US & EU. Interruptible rates are not drawn. |
 | Residual-value cap (fig 12) | NVDA 8-K 2026-08-17 / 10-Q. SB Energy cap $105B; AI-cloud land/power/shell $3.5B. Do not divide 105B by 3.71. |
 | Circular book (fig 13) | Filings and IR. Announced ≠ funded ≠ guaranteed ≠ revenue. Do not sum the bars. |
 | Cash vs capex (fig 14–16) | Company FCF definitions differ. AMZN FCF is TTM; ORCL is full FY26; others are the cited quarter. |
